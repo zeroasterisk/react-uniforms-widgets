@@ -6,6 +6,9 @@ This repo is a library of individual React Uniforms UI components.
 
 Look for each package in: [packages](./packages)
 
+This project is a work in progress, so maybe you should
+[contribute](./CONTRIBUTING.md).
+
 ## How to install?
 
 Once you decide on your package, you can to install with npm commands:
