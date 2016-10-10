@@ -25,7 +25,7 @@ npm install --save zeroasterisk-uniform-datepicker-bootstrap4
 * Schema of some sort
  * [SimpleSchema](https://github.com/aldeed/meteor-simple-schema)
  * [SimpleSchema2](https://github.com/aldeed/meteor-simple-schema/tree/v2)
- * ??? (TODO [#3](https://github.com/zeroasterisk/react-uniforms-widgets-base/issues/3)
+ * ??? (TODO [#3](https://github.com/zeroasterisk/react-uniforms-widgets/issues/3)
    build more bridges to other JS schemas)
 
 ### Goals for Development
