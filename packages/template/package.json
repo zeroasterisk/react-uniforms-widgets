@@ -1,10 +1,10 @@
 {
-  "name": "react-template",
+  "name": "template",
   "version": "0.0.0",
   "description": "React Template Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/you/repo.git"
+    "url": "https://github.com/TinaBryan/react-uniforms-widgets.git"
   },
   "license": "MIT",
   "scripts": {
