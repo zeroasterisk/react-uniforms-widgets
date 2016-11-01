@@ -8,7 +8,7 @@ There are a few guidelines that we need contributors to follow so that we can ha
 ## Getting started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
-* Work on an existing [Issues](https://github.com/zeroasterisk/react-uniforms-widgets-base/issues)
+* Work on an existing [Issues](https://github.com/zeroasterisk/react-uniforms-widgets/issues)
 * Submit a new issue for a *bug* or *feature request*, assuming one does not already exist.
 
 ### Tips on Issue Creation
@@ -35,4 +35,4 @@ There are a few guidelines that we need contributors to follow so that we can ha
 
 # Running locally
 
-See [DEVELOP](https://github.com/zeroasterisk/react-uniforms-widgets-base/blob/master/DEVELOP.md) documentation.
+See [DEVELOP](https://github.com/zeroasterisk/react-uniforms-widgets/blob/master/DEVELOP.md) documentation.

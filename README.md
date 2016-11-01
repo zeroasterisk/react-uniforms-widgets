@@ -6,6 +6,9 @@ This repo is a library of individual React Uniforms UI components.
 
 Look for each package in: [packages](./packages)
 
+This project is a work in progress, so maybe you should
+[contribute](./CONTRIBUTING.md).
+
 ## How to install?
 
 Once you decide on your package, you can to install with npm commands:
@@ -25,7 +28,7 @@ npm install --save zeroasterisk-uniform-datepicker-bootstrap4
 * Schema of some sort
  * [SimpleSchema](https://github.com/aldeed/meteor-simple-schema)
  * [SimpleSchema2](https://github.com/aldeed/meteor-simple-schema/tree/v2)
- * ??? (TODO [#3](https://github.com/zeroasterisk/react-uniforms-widgets-base/issues/3)
+ * ??? (TODO [#3](https://github.com/zeroasterisk/react-uniforms-widgets/issues/3)
    build more bridges to other JS schemas)
 
 ### Goals for Development
