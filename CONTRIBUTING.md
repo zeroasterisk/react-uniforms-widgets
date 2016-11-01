@@ -1,5 +1,6 @@
 # How to contribute
 
+
 Third-party patches are essential for keeping every project great.
 We simply can't access the huge number of use cases.
 We want to keep it as easy as possible to contribute changes that get things working in your environment.

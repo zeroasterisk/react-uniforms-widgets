@@ -11,7 +11,7 @@ This project is a work in progress, so maybe you should
 
 ## How to install?
 
-Once you decide on your package, you can to install with npm commands:
+Once you decide on your package, you can install with npm commands:
 
 ```
 npm install --save zeroasterisk-uniform-datepicker-bootstrap4
