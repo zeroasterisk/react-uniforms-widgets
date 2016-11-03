@@ -4,7 +4,7 @@
   "description": "React Template Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeroasterisk/react-uniforms-widgets.git"
+    "url": "git+https://github.com/zeroasterisk/react-uniforms-widgets.git"
   },
   "license": "MIT",
   "scripts": {
