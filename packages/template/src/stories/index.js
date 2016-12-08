@@ -2,6 +2,7 @@ import React from 'react';
 import { storiesOf, action } from '@kadira/storybook';
 import Button from '../index';
 
+
 storiesOf('Button', module)
   .add('default view', () => (
     <Button onClick={action('button clicked')}>Hello</Button>
