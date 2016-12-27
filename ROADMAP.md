@@ -1,12 +1,12 @@
 
 ## v.0.0.1 - Standup
 
-- [ ] make `packages/template` as
+- [√] make `packages/template` as
   a [react-cdk](https://github.com/kadirahq/react-cdk)
-- [ ] configure to work with `react-storybook` and render ok (their default
+- [√] configure to work with `react-storybook` and render ok (their default
   button should just work)
-- [ ] install uniforms `meteor npm install --save-dev uniforms uniforms-unstyled`
-- [ ] install SimpleSchema2 (doesn't require meteor)
+- [√] install uniforms `npm install --save-dev uniforms uniforms-unstyled`
+- [√] install SimpleSchema2 (doesn't require meteor)
 - [ ] make a `SimpleSchema2` + `uniforms` input show up in `react-storybook`
 - [ ] build out a basic story for various input settings
 - [ ] publish storybook to github pages (amazing!)
