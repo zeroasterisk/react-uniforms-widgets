@@ -26,8 +26,7 @@ npm install --save zeroasterisk-uniform-datepicker-bootstrap4
   Client Side suite of form management components, based on sophisticated class
   inheritance and styled for major CSS frameworks.
 * Schema of some sort
- * [SimpleSchema](https://github.com/aldeed/meteor-simple-schema)
- * [SimpleSchema2](https://github.com/aldeed/meteor-simple-schema/tree/v2)
+ * [SimpleSchema2](https://github.com/aldeed/node-simple-schema)
  * ??? (TODO [#3](https://github.com/zeroasterisk/react-uniforms-widgets/issues/3)
    build more bridges to other JS schemas)
 
