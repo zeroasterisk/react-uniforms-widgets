@@ -14,7 +14,7 @@ Read first: [Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac) [Window
 * nix-ish Development environment (maybe windows will work??? [YMMV](https://www.google.com/search?q=ymmv&ie=utf-8&oe=utf-8&client=firefox-b-1-ab))
 * [nodejs](https://nodejs.org/en/download/)
 * [eslint](https://eslint.org/docs/user-guide/getting-started#global-installation-and-usage)
-* text editor (Download the version per your machine)
+* text editor (Download the editor of choice; according to your machine)
   *[atom](http://flight-manual.atom.io/getting-started/sections/installing-atom/)
   *[SublimeText3](https://www.sublimetext.com/3)
   *[Brackets](http://brackets.io/)
