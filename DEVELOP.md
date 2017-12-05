@@ -8,7 +8,7 @@ Still here?  Want to help?
 
 ### Setup Local Development
 
-## Treehouse blog on setting up a node/npm developement environment.
+#### Treehouse blog on setting up a node/npm developement environment.
 Read first: [Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac) [Windows][http://blog.teamtreehouse.com/install-node-js-npm-windows] [Linux](http://blog.teamtreehouse.com/install-node-js-npm-linux)
 
 * nix-ish Development environment (maybe windows will work??? [YMMV](https://www.google.com/search?q=ymmv&ie=utf-8&oe=utf-8&client=firefox-b-1-ab))
