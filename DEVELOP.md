@@ -19,7 +19,9 @@ Read first: [Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac) [Window
   *[SublimeText3](https://www.sublimetext.com/3)
   *[Brackets](http://brackets.io/)
 * command line [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  *(come on people, you want super powers, right?)* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+  *(come on people, you want super powers, right?)* 
+    -[DenyConformity](http://www.denyconformity.com/post/467/The_Basics_of_Git)
+    -[Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ### Development Concepts
 
@@ -29,10 +31,11 @@ You will manage tasks via [GitHub Issues](https://github.com/zeroasterisk/react-
 
 Resources for Collaborating with [GitHub](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
 
+
 To make progress:
 
-1. Claim a task (update the task),
-2. Fork this repo to your own copy, (unless already done)
+1. Claim a task (update the task) [Claim](https://github.com/zeroasterisk/react-uniforms-widgets/issues)
+2. Fork this repo to your own copy, (unless already done)[Fork a repo](https://help.github.com/articles/fork-a-repo/)
 3. Do your work
  - Iterate a lot, commit a lot
  - Ask questions as needed, but try to make progress as you can
