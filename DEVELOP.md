@@ -15,13 +15,13 @@ Read first: [Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac) [Window
 * [nodejs](https://nodejs.org/en/download/)
 * [eslint](https://eslint.org/docs/user-guide/getting-started#global-installation-and-usage)
 * text editor (Download the editor of choice; according to your machine)
-  1. [atom](http://flight-manual.atom.io/getting-started/sections/installing-atom/)
-  2. [SublimeText3](https://www.sublimetext.com/3)
-  3. [Brackets](http://brackets.io/)
+  * [atom](http://flight-manual.atom.io/getting-started/sections/installing-atom/)
+  * [SublimeText3](https://www.sublimetext.com/3)
+  * [Brackets](http://brackets.io/)
 * command line [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  *(come on people, you want super powers, right?)* 
-  1. [DenyConformity](http://www.denyconformity.com/post/467/The_Basics_of_Git)
-  2. [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+  **_(come on people, you want super powers, right?)_** 
+  * [DenyConformity](http://www.denyconformity.com/post/467/The_Basics_of_Git)
+  * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ### Development Concepts
 
