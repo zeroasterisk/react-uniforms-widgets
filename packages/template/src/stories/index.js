@@ -15,7 +15,8 @@ storiesOf('Button', module)
     const style = {
       fontSize: 20,
       textTransform: 'uppercase',
-      color: '#FF8833',
+      color: '#ffd505',
+      background: '#f442d9',
     };
     return (
       <Button style={style}>Hello</Button>
